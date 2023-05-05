@@ -11,8 +11,9 @@
 - Расчет с помощью ансамбля моделей машинного обучения рекомендации по размещению Московских постаматов.
 - Реализация API по предоставлению сведений на Веб-сервис и во внешние источники.
 
-#### Документация: 
-https://docs.google.com/document/d/1wPX5Wk80xtDoV3U6kHj0mLAGXLsyUYc-
+#### Документация:
+- [Презентация проекта](https://docs.google.com/presentation/d/12ZHWuMAE2iPXcYVOMOGHlD4roDUlGb8N/edit?usp=sharing&ouid=113491937784577068477&rtpof=true&sd=true)
+- [Документация проекта](https://docs.google.com/document/d/1wPX5Wk80xtDoV3U6kHj0mLAGXLsyUYc-)
 
 #### Собраны и подгтовлены более 50 признаков, включая:
 - Пункты выдачи заказов (ПВЗ) и постаматы конкурентов
